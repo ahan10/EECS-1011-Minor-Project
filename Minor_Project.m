@@ -1,4 +1,3 @@
-% Ahan Bhargava - 218534776
 clear all; clc;
 a = arduino('COM3','UNO');
 i = 1;
